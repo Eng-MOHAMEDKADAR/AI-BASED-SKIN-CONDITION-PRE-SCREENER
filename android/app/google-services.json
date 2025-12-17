@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "572024193899",
+    "project_id": "smart-crop-detection",
+    "storage_bucket": "smart-crop-detection.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572024193899:android:8b91722d7670ef0fe4022e",
+        "android_client_info": {
+          "package_name": "com.example.smart_crop_detection"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr3mcw89fH9rCaoovxx49NmCTMOkEAlh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572024193899:android:a28efbd8078cb13ae4022e",
+        "android_client_info": {
+          "package_name": "com.mohamedkadar.smart_crop_detection"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr3mcw89fH9rCaoovxx49NmCTMOkEAlh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

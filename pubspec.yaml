@@ -1,0 +1,51 @@
+name: smart_crop_detection
+description: "Smart Crop Disease Detection App with Firebase and Plant.id API"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Firebase (only for authentication)
+  firebase_core: ^3.6.0
+  firebase_auth: ^5.3.0
+  
+  # SQLite for local storage
+  sqflite: ^2.3.3+1
+
+  # State Management
+  provider: ^6.1.2
+
+  # UI / Fonts / Animations
+  google_fonts: ^6.2.1
+  flutter_spinkit: ^5.2.0
+
+  # Image Handling
+  image_picker: ^1.1.2
+
+  # API Calls
+  http: ^1.2.2
+
+  # Cupertino Icons for iOS styled icons
+  cupertino_icons: ^1.0.8
+
+  # File sharing and downloading
+  share_plus: ^10.1.2
+  path_provider: ^2.1.5
+  
+  # Preferences storage
+  shared_preferences: ^2.3.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+
